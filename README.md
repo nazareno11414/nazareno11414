@@ -1,7 +1,7 @@
 <h1 align="center">Nazareno Cammarota</h1>
 
 <p align="center">
-  <code>Estudiante de Ingeniería en Sistemas</code> · <code>Frontend · Automatización · Sistemas</code><br/>
+  <code>Estudiante de Ingeniería en Sistemas</code> · <code>FullStack · Automatización · Sistemas</code><br/>
   Buenos Aires, Argentina
 </p>
 
