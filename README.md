@@ -19,11 +19,16 @@
 
 ```js
 const nazareno = {
-  rol: "Estudiante de Ingeniería en Sistemas",
+  rol: "Estudiante de Ing. en Sistemas",
   ubicacion: "Buenos Aires, Argentina",
-  enfoque: ["Frontend con React", "Automatización con Python", "Fundamentos en C", "Bases de datos"],
-  aprendiendo: ["Hooks y estado en React", "Enrutado con React Router", "SQL", "Punteros y memoria en C"],
-  metodo: "Aprender haciendo: cada concepto termina en un proyecto que se puede abrir y probar",
+  enfoque: [
+    "Frontend con React",
+    "Automatización con Python",
+    "Fundamentos en C",
+    "Bases de datos",
+  ],
+  aprendiendo: ["Hooks en React", "React Router", "SQL", "Punteros en C"],
+  metodo: "Aprender haciendo, con proyectos que se pueden probar",
   disponible: "Prácticas y trabajos junior",
 };
 ```
